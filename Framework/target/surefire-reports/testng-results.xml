@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="61560" started-at="2021-01-14T12:08:15 IST" finished-at="2021-01-14T12:09:17 IST">
+    <groups>
+      <group name="Full_Scenario">
+        <method signature="FullScenario_DefaultProfile.GoToUrlPositiveEnterEmailNegativeEnterPassword2()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="GoToUrlPositiveEnterEmailNegativeEnterPassword2" class="tests.FullScenario_DefaultProfile"/>
+        <method signature="FullScenario_DefaultProfile.GoToUrlPositiveEnterEmailPositiveEnterPasswordClickLoginGoToUrlClickSamsungSeries9NP900X4CPrem1()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="GoToUrlPositiveEnterEmailPositiveEnterPasswordClickLoginGoToUrlClickSamsungSeries9NP900X4CPrem1" class="tests.FullScenario_DefaultProfile"/>
+      </group> <!-- Full_Scenario -->
+      <group name="Full_Scenario - Default Profile">
+        <method signature="FullScenario_DefaultProfile.GoToUrlPositiveEnterEmailNegativeEnterPassword2()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="GoToUrlPositiveEnterEmailNegativeEnterPassword2" class="tests.FullScenario_DefaultProfile"/>
+        <method signature="FullScenario_DefaultProfile.GoToUrlPositiveEnterEmailPositiveEnterPasswordClickLoginGoToUrlClickSamsungSeries9NP900X4CPrem1()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="GoToUrlPositiveEnterEmailPositiveEnterPasswordClickLoginGoToUrlClickSamsungSeries9NP900X4CPrem1" class="tests.FullScenario_DefaultProfile"/>
+      </group> <!-- Full_Scenario - Default Profile -->
+    </groups>
+    <test name="Surefire test" duration-ms="61560" started-at="2021-01-14T12:08:15 IST" finished-at="2021-01-14T12:09:17 IST">
+      <class name="tests.FullScenario_DefaultProfile">
+        <test-method status="PASS" signature="allocateData(org.testng.ITestContext)[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="allocateData" is-config="true" duration-ms="34" started-at="2021-01-14T12:08:15 IST" finished-at="2021-01-14T12:08:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7e11ab3d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allocateData -->
+        <test-method status="PASS" signature="setupReporter()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="setupReporter" is-config="true" duration-ms="141" started-at="2021-01-14T12:08:15 IST" finished-at="2021-01-14T12:08:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReporter -->
+        <test-method status="PASS" signature="initDriver(java.lang.reflect.Method)[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="initDriver" is-config="true" duration-ms="4704" started-at="2021-01-14T12:08:15 IST" finished-at="2021-01-14T12:08:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FullScenario_DefaultProfile.GoToUrlPositiveEnterEmailNegativeEnterPassword2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="GoToUrlPositiveEnterEmailNegativeEnterPassword2()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="GoToUrlPositiveEnterEmailNegativeEnterPassword2" duration-ms="5093" started-at="2021-01-14T12:08:20 IST" finished-at="2021-01-14T12:08:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToUrlPositiveEnterEmailNegativeEnterPassword2 -->
+        <test-method status="PASS" signature="closerDriver()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="closerDriver" is-config="true" duration-ms="1416" started-at="2021-01-14T12:08:31 IST" finished-at="2021-01-14T12:08:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closerDriver -->
+        <test-method status="PASS" signature="initDriver(java.lang.reflect.Method)[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="initDriver" is-config="true" duration-ms="3891" started-at="2021-01-14T12:08:32 IST" finished-at="2021-01-14T12:08:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FullScenario_DefaultProfile.GoToUrlPositiveEnterEmailPositiveEnterPasswordClickLoginGoToUrlClickSamsungSeries9NP900X4CPrem1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="GoToUrlPositiveEnterEmailPositiveEnterPasswordClickLoginGoToUrlClickSamsungSeries9NP900X4CPrem1()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="GoToUrlPositiveEnterEmailPositiveEnterPasswordClickLoginGoToUrlClickSamsungSeries9NP900X4CPrem1" duration-ms="28141" started-at="2021-01-14T12:08:36 IST" finished-at="2021-01-14T12:09:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToUrlPositiveEnterEmailPositiveEnterPasswordClickLoginGoToUrlClickSamsungSeries9NP900X4CPrem1 -->
+        <test-method status="PASS" signature="closerDriver()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="closerDriver" is-config="true" duration-ms="1357" started-at="2021-01-14T12:09:16 IST" finished-at="2021-01-14T12:09:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closerDriver -->
+        <test-method status="PASS" signature="closeReporter()[pri:0, instance:tests.FullScenario_DefaultProfile@5b12b668]" name="closeReporter" is-config="true" duration-ms="668" started-at="2021-01-14T12:09:17 IST" finished-at="2021-01-14T12:09:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReporter -->
+      </class> <!-- tests.FullScenario_DefaultProfile -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.FullScenario_DefaultProfile
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 64.377 s - in tests.FullScenario_DefaultProfile
